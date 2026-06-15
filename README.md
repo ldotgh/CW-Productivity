@@ -1,5 +1,4 @@
 # CW-Productivity
-Tools for the teams
 
 Tools for Team Productivity
 
